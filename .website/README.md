@@ -1,4 +1,8 @@
 ---
+genres:
+  - puzzle
+  - narrative
+  - adventure
 post: https://github.com/baturinsky/dream
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
